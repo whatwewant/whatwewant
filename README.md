@@ -1,5 +1,8 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whatwewant&show_icons=true&&line_height=20&theme=default&layout=compact&hide=contribs,prs&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatwewant&show_icons=true&theme=default&layout=compact&hide=html,css&hide_border=true)
+### Hi, I'm whatwewant :tada:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=whatwewant&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="whatwewant's github stats" />
+
+Coding in China.
 
 ![Counter](https://profile-counter.glitch.me/whatwewant/count.svg)
 
