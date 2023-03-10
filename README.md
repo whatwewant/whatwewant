@@ -6,4 +6,7 @@ Coding ....
 
 ![Counter](https://profile-counter.glitch.me/whatwewant/count.svg)
 
+<br />
+<br />
+
 <img alt="https://www.githubtrends.io/wrapped/whatwewant" src="./github-wrapped.png" />
